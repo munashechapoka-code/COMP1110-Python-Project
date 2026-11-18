@@ -101,7 +101,8 @@ def UnitConverter():
 def CarDetails():
     """Function # 4: The Useful Car Details Calculator
     Author: Munashe
-    """
+    """ 
+    fuel_cost = liters*price 
 
 def CurrencyConverter():
     """Function # 5: The Currency Converter
